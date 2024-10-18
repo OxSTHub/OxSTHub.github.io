@@ -12,7 +12,7 @@ We setup the OxST Hub in 2024 to promote and develop systems thinking across the
 
 [Dr. Saskia Nowicki (Founding co-director)](https://www.geog.ox.ac.uk/staff/snowicki.html)
 
-[Dr. Fernanda Senra de Moura (Honary Research Associate)](https://www.inet.ox.ac.uk:8443/people/fernanda-senra-de-moura)
+[Dr. Fernanda Senra de Moura (Honarary Research Associate)](https://www.inet.ox.ac.uk:8443/people/fernanda-senra-de-moura)
 
 [Gustė Gurčinaitė (DPhil student)](https://www.linkedin.com/in/gust%C4%97-gur%C4%8Dinait%C4%97-600439129/?originalSubdomain=uk)
 
@@ -32,7 +32,16 @@ We setup the OxST Hub in 2024 to promote and develop systems thinking across the
 
 ## Publications
 
+[Systems mapping: how to build and use causal models of systems, by Pete Barbrook-Johnson and Alexandra Penn, 2022, Palgrave.](https://link.springer.com/book/10.1007/978-3-031-01919-7)
+
 ## Projects
+
+[The Agile Initiative: revolutionising how research responds to the urgent needs of policymakers. NERC.](https://www.agile-initiative.ox.ac.uk/)
+
+[The Economics of Energy Innovation and System Transition. HM Government + CIFF.](https://eeist.co.uk/)
+
+System mapping for the power sector transition in China
+
 
 ## Teaching materials
 
