@@ -1,3 +1,7 @@
+layout: page
+title: "Home"
+permalink: [https://oxsthub.github.io/]
+
 ![alt text](https://github.com/OxSTHub/OxSTHub.github.io/blob/main/OSTHubLogoV2.jpg?raw=true)
 
 
