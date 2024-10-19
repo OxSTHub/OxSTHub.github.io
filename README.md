@@ -1,6 +1,3 @@
-![alt text](https://github.com/OxSTHub/OxSTHub.github.io/blob/main/OSTHubLogoV2.jpg?raw=true)
-
-
 # The Oxford Systems Thinking Hub
 
 Developing and promoting cutting-edge practical Systems Thinking approaches.
