@@ -8,7 +8,7 @@ We set up the Oxford Systems Thinking Hub in Summer 2024 to promote and develop 
 
 [Dr. Saskia Nowicki (Founding co-director)](https://www.geog.ox.ac.uk/staff/snowicki.html)
 
-[Dr. Fernanda Senra de Moura (Honarary Research Associate)](https://www.inet.ox.ac.uk:8443/people/fernanda-senra-de-moura)
+[Dr. Fernanda Senra de Moura (Honorary Research Associate)](https://www.inet.ox.ac.uk:8443/people/fernanda-senra-de-moura)
 
 [Aissa Dearing (DPhil student)](https://www.geog.ox.ac.uk/graduate/research/adearing.html)
 
