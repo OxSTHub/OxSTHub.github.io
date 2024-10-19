@@ -9,4 +9,5 @@ github:
   zip_url: ""
   another_url: ""
   owner_url: ""
+show_site.github.owner_url: false
 show_downloads: false
