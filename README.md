@@ -1,6 +1,6 @@
 
 ## Vision
-We setup the OxST Hub in 2024 to promote and develop Systems Thinking across the University of Oxford. We found many colleagues using Systems Thinking, related ideas, and methods, but without a common place to share ideas and develop new research. We felt the need for an intellectual home for Systems Thinking at Oxford; we hope the hub will be just that!
+We set up the Oxford Systems Thinking Hub in Summer 2024 to promote and develop Systems Thinking across the University of Oxford. We had met many colleagues using Systems Thinking, related ideas, and methods, but without a common place to share ideas and develop new research. We felt the need for an intellectual home for Systems Thinking at Oxford; we hope the hub will be just that!
 
 ## People
 [Dr. Pete Barbrook-Johnson (Founding co-director)](https://www.inet.ox.ac.uk/people/peter-barbrook-johnson)
