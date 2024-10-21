@@ -57,7 +57,7 @@ System mapping for the power sector transition in China. Funded by QCF and DESNZ
 ### Upcoming
 *ONE Water event - details coming soon*
 
-[ACCESS Systems mapping course - 12 November - a few spaces still available] (https://accessnetwork.uk/systems-mapping-for-environmental-domains-one-day-workshop/)
+[ACCESS Systems mapping course - 12 November - a few spaces still available](https://accessnetwork.uk/systems-mapping-for-environmental-domains-one-day-workshop/)
 
 *Systems Thinking Masterclasses (Fully booked)*
 
