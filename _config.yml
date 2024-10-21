@@ -1,17 +1,17 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+# remote_theme: pages-themes/minimal@v0.2.0
+# plugins:
+# - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 name: The Oxford Systems Thinking Hub
 title: The Oxford Systems Thinking Hub
 
-logo: OSTHubLogoV2.jpg
+# logo: OSTHubLogoV2.jpg
 
-description: Developing and promoting cutting-edge practical Systems Thinking approaches.
+# description: Developing and promoting cutting-edge practical Systems Thinking approaches.
 
-github:
-  zip_url: ""
-  another_url: ""
-  owner_url: ""
-show_site.github.owner_url: false
-show_downloads: false
+#github:
+#  zip_url: ""
+#  another_url: ""
+#  owner_url: ""
+#show_site.github.owner_url: false
+#show_downloads: false
