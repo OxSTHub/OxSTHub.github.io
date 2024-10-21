@@ -1,4 +1,4 @@
-![alt text] (OSTHubLogoV2.jpg?raw=true)
+![alt text](OSTHubLogoV2.jpg?raw=true)
 
 # The Oxford Systems Thinking Hub
 
