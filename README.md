@@ -9,27 +9,27 @@ We set up the Oxford Systems Thinking Hub in Summer 2024 to promote and develop 
 
 ## People
 
-[Dr. Pete Barbrook-Johnson (Founding co-director)](https://www.inet.ox.ac.uk/people/peter-barbrook-johnson)
+[Dr. Pete Barbrook-Johnson (Founding co-director)](https://www.inet.ox.ac.uk/people/peter-barbrook-johnson) - using systems mapping, system dynamics, and agent-based modelling on a range of energy and environmental topics.
 
-[Dr. Saskia Nowicki (Founding co-director)](https://www.geog.ox.ac.uk/staff/snowicki.html)
+[Dr. Saskia Nowicki (Founding co-director)](https://www.geog.ox.ac.uk/staff/snowicki.html) - SHORT BLURB
 
-[Dr. Fernanda Senra de Moura (Honorary Research Associate)](https://www.inet.ox.ac.uk:8443/people/fernanda-senra-de-moura)
+[Dr. Fernanda Senra de Moura (Honorary Research Associate)](https://www.inet.ox.ac.uk:8443/people/fernanda-senra-de-moura) - using data-driven systems mapping and agent-based modelling on climate.
 
-[Aissa Dearing (DPhil student)](https://www.geog.ox.ac.uk/graduate/research/adearing.html)
+[Aissa Dearing (DPhil student)](https://www.geog.ox.ac.uk/graduate/research/adearing.html) - using participatory systems approaches on carbon dioxide removal.
 
-[Gustė Gurčinaitė (DPhil student)](https://www.linkedin.com/in/gust%C4%97-gur%C4%8Dinait%C4%97-600439129/?originalSubdomain=uk)
+[Gustė Gurčinaitė (DPhil student)](https://www.linkedin.com/in/gust%C4%97-gur%C4%8Dinait%C4%97-600439129/?originalSubdomain=uk) - using participatory systems approaches on the role of justice in policy.
 
-[Jordan White (Research Intern)](https://www.linkedin.com/in/-jordanwhite/?originalSubdomain=uk)
+[Jordan White (Research Intern)](https://www.linkedin.com/in/-jordanwhite/?originalSubdomain=uk) - using AI tools to support systems methods.
 
-[Jose Espí (DPhil student)](https://www.inet.ox.ac.uk:8443/people/jose-espi)
+[Jose Espí (DPhil student)](https://www.inet.ox.ac.uk:8443/people/jose-espi) - using SIPs and system dynamics on bioplastics.
 
-[Max Collett (Research assistant)](https://www.linkedin.com/in/maxy-collett/?originalSubdomain=uk)
+[Max Collett (Research assistant)](https://www.linkedin.com/in/maxy-collett/?originalSubdomain=uk) - using systems mapping on power sector reform.
 
-[Owen Haaga (DPhil student)](https://www.inet.ox.ac.uk/people/owen-haaga)
+[Owen Haaga (DPhil student)](https://www.inet.ox.ac.uk/people/owen-haaga) - using system dynamics to model labour flows in the energy transition.
 
-[Poornima Kumar (DPhil student)](https://www.geog.ox.ac.uk/graduate/research/pkumar.html)
+[Poornima Kumar (DPhil student)](https://www.geog.ox.ac.uk/graduate/research/pkumar.html) - using systems approaches on digitilisation and energy use.
 
-[Yuan Fu (DPhil student)](https://www.inet.ox.ac.uk/people/yuan-fu)
+[Yuan Fu (DPhil student)](https://www.inet.ox.ac.uk/people/yuan-fu) - using NLP to support systems mapping.
 
 ## Publications
 
