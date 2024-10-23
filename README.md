@@ -51,8 +51,6 @@ We set up the Oxford Systems Thinking Hub in Summer 2024 to promote and develop 
 
 [New economic models of energy innovation and transition](https://eeist.co.uk/eeist-reports/new-economic-models-of-energy-innovation-and-transition/) - library of case studies of new approaches to modelling the energy transition, including many quant and qual systems approaches.
 
-Penny Mealy, Pete Barbrook-Johnson, Matthew C Ives, Sugandha Srivastav, Cameron Hepburn, Sensitive intervention points: a strategic approach to climate action, Oxford Review of Economic Policy, Volume 39, Issue 4, Winter 2023, Pages 694–710, https://doi.org/10.1093/oxrep/grad043
-
 ### Principles of complex systems
 
 [The visual representation of complexity](https://www.cecan.ac.uk/wp-content/uploads/2020/08/Poster-07-Joanna-Boehnert.pdf) - poster explaining the various defining characteristics of complex systems with simple visuals, examples, and learning points.
