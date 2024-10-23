@@ -41,6 +41,10 @@ We set up the Oxford Systems Thinking Hub in Summer 2024 to promote and develop 
 
 [The visual representation of complexity](https://www.cecan.ac.uk/wp-content/uploads/2020/08/Poster-07-Joanna-Boehnert.pdf) - poster explaining the various defining characteristics of complex systems with simple visuals, examples, and learning points.
 
+[Economic modelling fit for the demands of energy decision makers, Barbrook-Johnson, P., Mercure, JF., Sharpe, S. et al. 2024](https://doi.org/10.1038/s41560-024-01452-7) - comment piece call for new approaches to modelling for the energy transition, including systems thinking approaches.
+
+[New economic models of energy innovation and transition](https://eeist.co.uk/eeist-reports/new-economic-models-of-energy-innovation-and-transition/) - library of case studies of new approaches to modelling the energy transition, including many quant and qual systems approaches.
+
 *More to come - key papers from both of us*
 
 ## Projects
