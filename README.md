@@ -33,7 +33,13 @@ We set up the Oxford Systems Thinking Hub in Summer 2024 to promote and develop 
 
 ## Publications
 
-[Systems mapping: how to build and use causal models of systems, by Pete Barbrook-Johnson and Alexandra Penn, 2022, Palgrave.](https://link.springer.com/book/10.1007/978-3-031-01919-7)
+[Systems mapping: how to build and use causal models of systems, by Pete Barbrook-Johnson and Alexandra Penn, 2022, Palgrave.](https://link.springer.com/book/10.1007/978-3-031-01919-7) - practical book outlining a range of systems mapping methods and how to use them. 
+
+[Participatory systems mapping for complex energy policy evaluation, Barbrook-Johnson, P., & Penn, A. 2021.](https://doi.org/10.1177/1356389020976153) - paper outlining the use of participatory systems mapping (and the analysis of submaps drawn from larger maps) in policy analysis.
+
+[Building a system-based Theory of Change using Participatory Systems Mapping, Wilkinson, H., Hills, D., Penn, A., & Barbrook-Johnson, P. 2021](https://doi.org/10.1177/1356389020980493) - paper outlining how to using systems mapping to inform a Theory of Change.
+
+[The visual representation of complexity](https://www.cecan.ac.uk/wp-content/uploads/2020/08/Poster-07-Joanna-Boehnert.pdf) - poster explaining the various defining characteristics of complex systems with simple visuals, examples, and learning points.
 
 *More to come - key papers from both of us*
 
