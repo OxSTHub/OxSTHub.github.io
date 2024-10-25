@@ -2,7 +2,7 @@
 
 # The Oxford Systems Thinking Hub
 
-Developing and promoting cutting-edge practical Systems Thinking approaches.
+Developing and promoting cutting-edge practical Systems Thinking approaches. Find us on [LinkedIn](https://www.linkedin.com/groups/13110209/)
 
 ## Vision
 We set up the Oxford Systems Thinking Hub in Summer 2024 to promote and develop Systems Thinking across the University of Oxford. We had met many colleagues using Systems Thinking, related ideas, and methods, but without a common place to share ideas and develop new research. We felt the need for an intellectual home for Systems Thinking at Oxford; we hope the hub will be just that!
