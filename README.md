@@ -11,7 +11,7 @@ We set up the Oxford Systems Thinking Hub in Summer 2024 to promote and develop 
 
 [Dr. Pete Barbrook-Johnson (Founding co-director)](https://www.inet.ox.ac.uk/people/peter-barbrook-johnson) - using systems mapping, system dynamics, and agent-based modelling on a range of energy and environmental topics.
 
-[Dr. Saskia Nowicki (Founding co-director)](https://www.geog.ox.ac.uk/staff/snowicki.html) - SHORT BLURB
+[Dr. Saskia Nowicki (Founding co-director)](https://www.geog.ox.ac.uk/staff/snowicki.html) - using systems framing and mapping for implementation science to advance water security.
 
 [Dr. Fernanda Senra de Moura (Honorary Research Associate)](https://www.inet.ox.ac.uk:8443/people/fernanda-senra-de-moura) - using data-driven systems mapping and agent-based modelling on climate.
 
